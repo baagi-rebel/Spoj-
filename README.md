@@ -1,0 +1,2 @@
+# Spoj-
+Spoj Ranked Challenge
